@@ -1,4 +1,4 @@
-## Code, sleep, eat, repeat 💪🏻😎📚
+## Welcome! Let's HARDCORE code, Samurai 💪🏻😎📚
 
  <div>
    <a href="https://github.com/AlisonBernardino">
