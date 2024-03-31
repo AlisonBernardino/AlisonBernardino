@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Teacher Neutron [Ou o Teacher Alison Bernardino] 💪🏻😎📚
+## Code, sleep, eat, repeat 💪🏻😎📚
 
  <div>
    <a href="https://github.com/AlisonBernardino">
