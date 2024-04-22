@@ -20,7 +20,7 @@
  
 <br>
  
-### Para se aprofundar em mais conteúdo de programação/coding, confira as nossas redes sociais:
+### To deep-dive inside the coding knowledge, find us through our social media:
  
 <div> 
   <a href="https://www.youtube.com/channel/UCqL0LEJNk2FUlw2mQtI-8nQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
